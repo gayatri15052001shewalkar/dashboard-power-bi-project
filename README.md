@@ -10,12 +10,12 @@ This Power Bi Project provides a comprehensive analysis of sales data, offering 
 •	Order Trend Analysis: Monthly trend analysis of order volume.
 •	Sales by category and sub-category: Detailed tree map analysis of category and sub-category sales, highlighting top sellers.
 
-## Why this project stands out
-•	Visually Engaging: The dashboard features a combination of diverse visualizations, including bar charts, line charts, donut charts, and tree maps, creating an interactive and insightful analysis.
-•	Business-Driven insights: Each visual is designed to answer specific business questions, such as  identifying high-profit categories and understanding customer purchasing trends.
-•	Strategic value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning. 
+# Why this project stands out
+# #	Visually Engaging: The dashboard features a combination of diverse visualizations, including bar charts, line charts, donut charts, and tree maps, creating an interactive and insightful analysis.
+# #	Business-Driven insights: Each visual is designed to answer specific business questions, such as  identifying high-profit categories and understanding customer purchasing trends.
+# #	Strategic value: The insights derived from this dashboard can guide business strategies in sales optimization, regional targeting, and inventory planning. 
 
-## Project Highlights
+# Project Highlights
 Metrics                  value
 Total sales             438k
 Total profit            37k
@@ -24,7 +24,7 @@ Total quantity sold 5615
 ## feedback & collaboration
 Your feedback is welcome if you’d like to collaborate on similar projects or discuss data analysis opportunities, feel free to reach out.
 
-## Repository structure 
+# Repository structure 
 Data:<a href "https://github.com/gayatri15052001shewalkar/dashboard-power-bi-project/blob/main/Details%20(1).csv"</a>
 Dashboard: power bi file (.pbix) of the project.
 Images: contains screenshots of the dashboard for easy preview.
