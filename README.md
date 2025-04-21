@@ -27,4 +27,5 @@ Your feedback is welcome if you’d like to collaborate on similar projects or d
 # Repository structure 
 Data:<a href "https://github.com/gayatri15052001shewalkar/dashboard-power-bi-project/blob/main/Details%20(1).csv"</a>
 Dashboard: power bi file (.pbix) of the project.
-Images: contains screenshots of the dashboard for easy preview.
+Images: ![dashborde image](https://github.com/user-attachments/assets/cd143674-dcbc-4b56-9a8b-285da2471acb)
+
